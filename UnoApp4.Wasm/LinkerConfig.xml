@@ -1,0 +1,11 @@
+<linker>
+	<assembly fullname="UnoApp4" />
+	<assembly fullname="UnoApp4.Wasm" />
+
+	<!--
+  Uncomment this section when using JSON.NET
+  <assembly fullname="System.Core">
+	  <type fullname="System.Linq.Expressions*" />
+  </assembly>
+   -->
+</linker>
